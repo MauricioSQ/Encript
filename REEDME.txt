@@ -1,0 +1,12 @@
+Proyecto Encript :
+
+Este es un proyecto que encripta un 'id' a base de una llave púbilca. Fue realizado con la intención de simular el mismo comportamiento de una biblioteca de encriptado de JavaScritp (jsencrypt).
+
+
+
+
+Adicional:
+
+También, contiene diferentes 'Scratches', cortos programas que cumplen con éxito distintos desafios de práctica de aprendizaje en Java. Estos seguirán aumentando en la sección de 'Scratces and Console'.
+
+Al ser 'Scratches' no influyen ni interactuan con el programa principal ni entre ellos, son una ejecución totalmente independiente, por ello, seguiré agregando sin prácticas.
